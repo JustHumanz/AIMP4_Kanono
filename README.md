@@ -3,7 +3,7 @@
 #### <p align='center'> Kanono </p>
 <p align='center'> AIMP Home </p>
 
-<p align='center'> ![Kanono-Login-Manager](https://raw.githubusercontent.com/JustHumanz/AIMP4_Kanono/master/Screenshot_1.png) </p>
+![Kanono-Login-Manager](https://raw.githubusercontent.com/JustHumanz/AIMP4_Kanono/master/Screenshot_1.png)
 
 <p align='center'> AIMP Playlist </p>
 
