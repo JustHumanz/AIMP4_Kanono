@@ -24,3 +24,7 @@
 <p align='center'> IDK what name of this (ﾟｰﾟ; </p>
 
 ![Kanono-lockscreen](https://raw.githubusercontent.com/JustHumanz/AIMP4_Kanono/master/Screenshot_6.png)
+
+#### [Download Skin](https://github.com/JustHumanz/AIMP4_Kanono/blob/master/Kanono.acs4?raw=true)  
+
+#### [Download Project Skin](https://github.com/JustHumanz/AIMP4_Kanono/blob/master/Kanono.acs4proj?raw=true)  
