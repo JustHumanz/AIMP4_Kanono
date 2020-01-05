@@ -5,6 +5,8 @@
 
 ![Kanono-Login-Manager](https://raw.githubusercontent.com/JustHumanz/AIMP4_Kanono/master/Screenshot_1.png)
 
+</p>
+
 <p align='center'> AIMP Playlist </p>
 
 ![Kanono-Desktop](https://raw.githubusercontent.com/JustHumanz/AIMP4_Kanono/master/Screenshot_2.png)
