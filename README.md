@@ -1,7 +1,7 @@
 # <p align="center"> <b> Kanono Skin AIMP4  </b> </p>  
 
 #### <p align='center'> Kanono </p>
-<p align='center'> AIMP Home </p>
+<p align='center'> AIMP Home
 
 ![Kanono-Login-Manager](https://raw.githubusercontent.com/JustHumanz/AIMP4_Kanono/master/Screenshot_1.png)
 
