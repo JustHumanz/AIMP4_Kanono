@@ -5,24 +5,23 @@
 
 ![Kanono-Login-Manager](https://raw.githubusercontent.com/JustHumanz/AIMP4_Kanono/master/Screenshot_1.png)
 
-</p>
-
-<p align='center'> AIMP Playlist </p>
+Playlist
 
 ![Kanono-Desktop](https://raw.githubusercontent.com/JustHumanz/AIMP4_Kanono/master/Screenshot_2.png)
 
-<p align='center'> AIMP Lyrics </p>
+AIMP Lyrics
 
 ![Kanono-lockscreen](https://raw.githubusercontent.com/JustHumanz/AIMP4_Kanono/master/Screenshot_3.png)
 
-<p align='center'> AIMP Music Playing </p>
+AIMP Music Playing
 
 ![Kanono-lockscreen](https://raw.githubusercontent.com/JustHumanz/AIMP4_Kanono/master/Screenshot_4.png)
 
-<p align='center'> AIMP Minimize </p>
+AIMP Minimize
 
 ![Kanono-lockscreen](https://raw.githubusercontent.com/JustHumanz/AIMP4_Kanono/master/Screenshot_5.png)
 
-<p align='center'> IDK what name of this (ﾟｰﾟ; </p>
+IDK what name of this (ﾟｰﾟ;
 
 ![Kanono-lockscreen](https://raw.githubusercontent.com/JustHumanz/AIMP4_Kanono/master/Screenshot_6.png)
+</p>
